@@ -15,6 +15,6 @@
 
 ### 🧰 Languages and Tools:
 
-[<img align="left" alt="Tolga Kara - LinkedIn" width="26px" src="https://simpleicons.org/icons/react.svg" />](React)
+<img align="left" alt="Tolga Kara - LinkedIn" width="26px" src="https://simpleicons.org/icons/react.svg" />
 
 [linkedin]: https://www.linkedin.com/in/tolgakara/
