@@ -21,6 +21,8 @@
 
 [<img align="left" style="margin-bottom: 5px" alt="Skill - CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />][github]
 
+[<img align="left" style="margin-bottom: 5px" alt="Skill - PHP" width="26px" src="https://simpleicons.org/icons/php.svg" />][github]
+
 [<img align="left" style="margin-bottom: 5px" alt="Skill - JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />][github]
 
 [<img align="left"  style="margin-bottom: 5px" alt="Skill - React" width="26px" src="https://simpleicons.org/icons/react.svg" />][github]
@@ -28,6 +30,10 @@
 [<img align="left" style="margin-bottom: 5px" alt="Skill - VueJS" width="26px" src="https://simpleicons.org/icons/vue-dot-js.svg" />][github]
 
 [<img align="left" style="margin-bottom: 5px" alt="Skill - NodeJS" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - Laravel" width="26px" src="https://simpleicons.org/icons/laravel.svg" />][github]
+
+[<img align="left"  style="margin-bottom: 5px" alt="Skill - Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][github]
 
 [<img align="left"  style="margin-bottom: 5px" alt="Skill - Django" width="26px" src="https://simpleicons.org/icons/django.svg" />][github]
 
