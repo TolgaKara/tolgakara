@@ -1,5 +1,7 @@
 ### Hi, I am Tolga 👋🏻 👨🏻‍💻
 
+![Banner](images/github-thumbnail.png)
+
 ## I am a Developer and Teacher
 
 - 🔭 I’m currently working on a GitHub Course and on a jobplatform application
