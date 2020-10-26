@@ -9,6 +9,10 @@
 
 ### 💬 Connect with me:
 
+[<img align="left" alt="Tolga Kara - LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+
 ### 🧰 Languages and Tools:
 
 #### My Values
+
+[linkedin]: https://www.linkedin.com/in/tolgakara/
