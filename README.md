@@ -11,8 +11,11 @@
 
 [<img align="left" alt="Tolga Kara - LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
+<br>
+
 ### 🧰 Languages and Tools:
 
-#### My Values
+[<img align="left" alt="Tolga Kara - LinkedIn" width="26px" src="https://simpleicons.org/icons/react.svg" />][reactplaylist]
 
 [linkedin]: https://www.linkedin.com/in/tolgakara/
+[reactplaylist]: /
