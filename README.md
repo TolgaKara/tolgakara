@@ -15,6 +15,25 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Tolga Kara - LinkedIn" width="26px" src="https://simpleicons.org/icons/react.svg" />
+[<img align="left" style="margin-bottom: 5px" alt="Skill - VSCode" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />][github]
+
+[<img align="left"  style="margin-bottom: 5px" alt="Skill - React" width="26px" src="https://simpleicons.org/icons/react.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - VueJS" width="26px" src="https://simpleicons.org/icons/vue-dot-js.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - NodeJS" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />][github]
+
+[<img align="left"  style="margin-bottom: 5px" alt="Skill - Django" width="26px" src="https://simpleicons.org/icons/django.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - TailwindCSS" width="26px" src="https://simpleicons.org/icons/tailwindcss.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
 
 [linkedin]: https://www.linkedin.com/in/tolgakara/
+[github]: https://github.com/TolgaKara
