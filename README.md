@@ -59,7 +59,7 @@
 
 [<img align="left" style="margin-bottom: 5px" alt="Tool - Webstorm" width="26px" src="images/webstorm.svg" />][github]
 
-[<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
+[<img align="left" style="margin-bottom: 5px" alt="Tool - Heroku" width="26px" src="images/heroku.svg" />][github]
 
 [linkedin]: https://www.linkedin.com/in/tolgakara/
 [github]: https://github.com/TolgaKara
