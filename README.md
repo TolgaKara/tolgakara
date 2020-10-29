@@ -51,7 +51,7 @@
 
 [<img align="left" style="margin-bottom: 5px" alt="Tool - Github" width="26px" src="images/github.svg" />][github]
 
-[<img align="left" style="margin-bottom: 5px" alt="Tool - Github" width="26px" src="images/github.svg" />][github]
+[<img align="left" style="margin-bottom: 5px" alt="Tool - Gitkraken" width="26px" src="images/gitkraken.svg" />][github]
 
 [<img align="left" style="margin-bottom: 5px" alt="Tool - VSCode" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
 
