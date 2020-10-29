@@ -43,6 +43,19 @@
 [<img align="left" style="margin-bottom: 5px" alt="Skill - TailwindCSS" width="26px" src="https://simpleicons.org/icons/tailwindcss.svg" />][github]
 
 [<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
+<br>
+
+---
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="images/slack.svg" style="fill:#4A154B;" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
 
 [linkedin]: https://www.linkedin.com/in/tolgakara/
 [github]: https://github.com/TolgaKara
