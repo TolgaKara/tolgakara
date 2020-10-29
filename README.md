@@ -47,9 +47,9 @@
 
 ---
 
-[<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="images/slack.svg" style="fill:#4A154B;" />][github]
+[<img align="left" style="margin-bottom: 5px" alt="Tool - Slack" width="26px" src="images/slack.svg" style="fill:#4A154B;" />][github]
 
-[<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
+[<img align="left" style="margin-bottom: 5px" alt="Tool - Zoom" width="26px" src="images/zoom.svg" />][github]
 
 [<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
 
