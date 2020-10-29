@@ -41,6 +41,8 @@
 [<img align="left" style="margin-bottom: 5px" alt="Skill - TailwindCSS" width="26px" src="https://simpleicons.org/icons/tailwindcss.svg" />][github]
 
 [<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - Java" width="26px" src="images/java.svg" />][github]
 <br>
 
 ---
