@@ -49,9 +49,9 @@
 
 [<img align="left" style="margin-bottom: 5px" alt="Tool - Zoom" width="26px" src="images/zoom.svg" />][github]
 
-[<img align="left" style="margin-bottom: 5px" alt="Skill - VSCode" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
+[<img align="left" style="margin-bottom: 5px" alt="Tool - Github" width="26px" src="images/github.svg" />][github]
 
-[<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
+[<img align="left" style="margin-bottom: 5px" alt="Tool - VSCode" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
 
 [<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
 
