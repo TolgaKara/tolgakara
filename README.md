@@ -12,7 +12,7 @@
 ### 💬 Connect with me:
 
 [<img align="left" alt="Tolga Kara - LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Tolga Kara's DEV Profile" width="22px" />][devto]
+[<img align="left" src="images/dev-dot-to.svg" alt="Tolga Kara's DEV Profile" width="22px" />][devto]
 
 <br>
 
