@@ -18,8 +18,6 @@
 
 ### 🧰 Languages and Tools:
 
-[<img align="left" style="margin-bottom: 5px" alt="Skill - VSCode" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
-
 [<img align="left" style="margin-bottom: 5px" alt="Skill - HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />][github]
 
 [<img align="left" style="margin-bottom: 5px" alt="Skill - CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />][github]
@@ -50,6 +48,8 @@
 [<img align="left" style="margin-bottom: 5px" alt="Tool - Slack" width="26px" src="images/slack.svg" style="fill:#4A154B;" />][github]
 
 [<img align="left" style="margin-bottom: 5px" alt="Tool - Zoom" width="26px" src="images/zoom.svg" />][github]
+
+[<img align="left" style="margin-bottom: 5px" alt="Skill - VSCode" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
 
 [<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
 
