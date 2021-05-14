@@ -1,11 +1,11 @@
 ### Hi, I am Tolga 👋🏻 👨🏻‍💻
 
-## I am a Developer and Teacher
+## I am a Developer and I like to teach programming
 
-- 🔭 I’m currently working on a GitHub Course and on a jobplatform application
-- 🌱 I’m currently learning TypeScript, Github Actions and VueJS
+- 🔭 I’m currently working on a Agency Platform
+- 🌱 I’m currently learning State Management and TailwindCSS
 - 👯 I’m looking to collaborate on application which can help the customer to easily manage there life
-- ⚡ Fun fact: I love to play Chess and I am a cat person
+- ⚡ Fun fact: I love to play ♟️ Chess and I am a 🐱 cat person
 
 ### 💬 Connect with me:
 
@@ -16,7 +16,7 @@
 
 ### 🧰 Languages and Tools:
 
-[<img align="left" style="margin-bottom: 5px" alt="Skill - HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />][github]
+[<img align="left" style="color:red;margin-bottom: 5px" alt="Skill - HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />][github]
 
 [<img align="left" style="margin-bottom: 5px" alt="Skill - CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />][github]
 
@@ -58,6 +58,8 @@
 [<img align="left" style="margin-bottom: 5px" alt="Tool - Webstorm" width="26px" src="images/webstorm.svg" />][github]
 
 [<img align="left" style="margin-bottom: 5px" alt="Tool - Heroku" width="26px" src="images/heroku.svg" />][github]
+
+<img src="https://raw.githubusercontent.com/TolgaKara/tolgakara/master/tags.svg" width="auto" height="auto">
 
 [linkedin]: https://www.linkedin.com/in/tolgakara/
 [github]: https://github.com/TolgaKara
