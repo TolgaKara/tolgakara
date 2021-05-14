@@ -59,7 +59,7 @@
 
 [<img align="left" style="margin-bottom: 5px" alt="Tool - Heroku" width="26px" src="images/heroku.svg" />][github]
 
-<img src="https://raw.githubusercontent.com/TolgaKara/tolgakara/master/tags.svg" width="auto" height="auto">
+<!-- <img src="https://raw.githubusercontent.com/TolgaKara/tolgakara/main/languages.svg" width="auto" height="auto"> -->
 
 [linkedin]: https://www.linkedin.com/in/tolgakara/
 [github]: https://github.com/TolgaKara
