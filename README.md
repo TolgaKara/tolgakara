@@ -17,6 +17,7 @@
 [<img align="left" alt="Tolga Kara - LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" style="color:white;" src="images/dev-dot-to.svg" alt="Tolga Kara's DEV Profile" width="28px" />][devto]
 
+<br>
 
 ### 🧰 Languages and Tools:
 
