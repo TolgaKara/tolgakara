@@ -1,4 +1,9 @@
-### Hi, I am Tolga 👋🏻 👨🏻‍💻
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tolgakara/tolgakara/master/logo.svg" width="300" height="100">
+</p>
+<img src="https://raw.githubusercontent.com/tolgakara/tolgakara/master/waves.svg" width="100%" height="150">
+
+# Hi, I am Tolga 👋🏻 👨🏻‍💻
 
 ## I am a Developer and I like to teach programming
 
