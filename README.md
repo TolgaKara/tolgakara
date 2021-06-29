@@ -16,55 +16,15 @@
 
 [<img align="left" alt="Tolga Kara - LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" src="images/dev-dot-to.svg" alt="Tolga Kara's DEV Profile" width="28px" />][devto]
+<img src="https://raw.githubusercontent.com/tolgakara/tolgakara/master/socialmedia.svg" width="auto" height="auto">
 
 <br>
 
 ### 🧰 Languages and Tools:
 
-[<img align="left" style="color:red;margin-bottom: 5px" alt="Skill - HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Skill - CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Skill - PHP" width="26px" src="https://simpleicons.org/icons/php.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Skill - JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />][github]
-
-[<img align="left"  style="margin-bottom: 5px" alt="Skill - React" width="26px" src="https://simpleicons.org/icons/react.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Skill - VueJS" width="26px" src="https://simpleicons.org/icons/vue-dot-js.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Skill - NodeJS" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Skill - Laravel" width="26px" src="https://simpleicons.org/icons/laravel.svg" />][github]
-
-[<img align="left"  style="margin-bottom: 5px" alt="Skill - Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][github]
-
-[<img align="left"  style="margin-bottom: 5px" alt="Skill - Django" width="26px" src="https://simpleicons.org/icons/django.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Skill - TailwindCSS" width="26px" src="https://simpleicons.org/icons/tailwindcss.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Skill - Bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Skill - Java" width="26px" src="images/java.svg" />][github]
+<img src="https://raw.githubusercontent.com/tolgakara/tolgakara/master/tags.svg" width="auto" height="auto">
 <br>
 
----
-
-[<img align="left" style="margin-bottom: 5px" alt="Tool - Slack" width="26px" src="images/slack.svg" style="fill:#4A154B;" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Tool - Zoom" width="26px" src="images/zoom.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Tool - Github" width="26px" src="images/github.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Tool - Gitkraken" width="26px" src="images/gitkraken.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Tool - VSCode" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Tool - Webstorm" width="26px" src="images/webstorm.svg" />][github]
-
-[<img align="left" style="margin-bottom: 5px" alt="Tool - Heroku" width="26px" src="images/heroku.svg" />][github]
-
-<!-- <img src="https://raw.githubusercontent.com/TolgaKara/tolgakara/main/languages.svg" width="auto" height="auto"> -->
 
 [linkedin]: https://www.linkedin.com/in/tolgakara/
 [github]: https://github.com/TolgaKara

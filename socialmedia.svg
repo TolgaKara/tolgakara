@@ -25,21 +25,12 @@
       </style>
 
       <div class="tags">
-        <div class="tag">React</div>
-        <div class="tag">JavaScript</div>
-        <div class="tag">NextJS</div>
-        <div class="tag">Gatsby</div>
+        <div class="tag"><a href="https://github.com/TolgaKara"></a>GitHub</div>
+        <div class="tag"><a href="https://www.linkedin.com/in/tolgakara/"></a>LinkedIn</div>
+        <div class="tag"><a href="https://dev.to/tolgakara"></a>Dev.to</div>
+
       </div>
-      <div class="tags">
-        <div class="tag">(S)CSS</div>
-        <div class="tag">styled-components</div>
-        <div class="tag">TailwindCSS</div>
-      </div>
-      <div class="tags">
-        <div class="tag">GCP</div>
-        <div class="tag">Express</div>
-        <div class="tag">NodeJS</div>
-      </div>
+
 
     </div>
   </foreignObject>
