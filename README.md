@@ -15,14 +15,12 @@
 ### 💬 Connect with me:
 
 [<img align="left" alt="Tolga Kara - LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" src="images/dev-dot-to.svg" alt="Tolga Kara's DEV Profile" width="28px" />][devto]
-<img src="https://raw.githubusercontent.com/tolgakara/tolgakara/master/socialmedia.svg" width="auto" height="auto">
+[<img align="left" style="color:white;" src="images/dev-dot-to.svg" alt="Tolga Kara's DEV Profile" width="28px" />][devto]
 
-<br>
 
 ### 🧰 Languages and Tools:
 
-<img src="https://raw.githubusercontent.com/tolgakara/tolgakara/master/tags.svg" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/tolgakara/tolgakara/master/languages.svg" width="auto" height="auto">
 <br>
 
 
