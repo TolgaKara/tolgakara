@@ -1,30 +1,36 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tolgakara/tolgakara/master/logo.svg" width="300" height="100">
-</p>
-<img src="https://raw.githubusercontent.com/tolgakara/tolgakara/master/waves.svg" width="100%" height="150">
+# Hey, I'm Tolga 👋
 
-# Hi, I am Tolga 👋🏻 👨🏻‍💻
+### Software engineer by background. Code gardener by choice. 🌱
 
-## I am a Developer and I like to teach programming
+I build digital products at the intersection of **entrepreneurship, AI, engineering, and performance**.
 
-- 🔭 I’m currently working on a Agency Platform
-- 🌱 I’m currently learning State Management and TailwindCSS
-- 👯 I’m looking to collaborate on application which can help the customer to easily manage there life
-- ⚡ Fun fact: I love to play ♟️ Chess and I am a 🐱 cat person
+These days, I spend less time thinking about how to write every line of code and more time thinking about **what to build, why it matters, and how to make it better**.
 
-### 💬 Connect with me:
+AI helps accelerate the implementation. I focus on planting the right ideas, shaping the architecture, pruning unnecessary complexity, and keeping the codebase healthy.
 
-[<img align="left" alt="Tolga Kara - LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" style="color:white;" src="images/dev-dot-to.svg" alt="Tolga Kara's DEV Profile" width="28px" />][devto]
+Because building software is one thing. **Growing something valuable is another.**
 
-<br>
+---
 
-### 🧰 Languages and Tools:
+### 🌱 What I'm cultivating
 
-<img src="https://raw.githubusercontent.com/tolgakara/tolgakara/master/languages.svg" width="auto" height="auto">
-<br>
+- **AI-driven development** — using intelligent tools to build faster and think bigger.
+- **Digital products & platforms** — turning ambitious ideas into useful, scalable experiences.
+- **Performance & optimization** — making products faster, cleaner, and more effective.
+- **Entrepreneurship & agency thinking** — connecting technology to strategy, business, and real-world outcomes.
 
+### 🧠 My philosophy
 
-[linkedin]: https://www.linkedin.com/in/tolgakara/
-[github]: https://github.com/TolgaKara
-[devto]: https://dev.to/tolgakara
+> Less code for the sake of code. More clarity, better systems, and meaningful outcomes.
+
+I believe the future belongs to people who know how to combine **human judgment, AI-powered execution, and a strong sense of product direction**.
+
+The tools will keep changing. The responsibility for building something good won't.
+
+---
+
+### 🤝 Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/tolgakara/) · [GitHub](https://github.com/TolgaKara) · [DEV Community](https://dev.to/tolgakara)
+
+*Plant ideas. Prune complexity. Grow products.*
